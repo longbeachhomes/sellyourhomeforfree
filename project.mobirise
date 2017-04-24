@@ -314,7 +314,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "REQUEST YOUR eBOOK TODAY",
+          "title": "SELL YOUR HOME FOR FREE eBOOK",
           "subtitle": "Yes! Please send me my FREE copy of 'Your Guide to Selling Your Home'",
           "form": {
             "action": "emperorcesare@hotmail.com",
@@ -445,7 +445,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>.&nbsp;We take your privacy very seriously. Read our <a href=\"http://www.realestateandtaxhelp.com/privacy\">privacy policy</a> here. By entering, you agree to <a href=\"http://www.realestateandtaxhelp.com/terms\">terms and conditions</a> found here.  By entering your email address you are also requesting and agreeing to subscribe to my free email newsletter. You must be <br>18 or older to enter. If you have any  questions or comments please <a href=\"http://www.realestateandtaxhelp.com/contact\">contact us</a>.   Web site design by <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">CM Design</a>.<br></p>"
+          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>.&nbsp;We take your privacy very seriously. Read our <a href=\"https://github.com/longbeachhomes/sellyourhomeforfree/blob/master/Privacypolicytermsandconditions.txt\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here. By entering, you agree to <a href=\"https://github.com/longbeachhomes/sellyourhomeforfree/blob/master/Privacypolicytermsandconditions.txt\" target=\"_blank\">terms and conditions</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \"></a><a href=\"http://www.realestateandtaxhelp.com/terms\"></a> found here.  By entering your email address you are also requesting and agreeing to subscribe to my free email newsletter. You must be <br>18 or older to enter. If you have any  questions or comments please <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact us</a>.   Web site design by CM Design.<br></p>"
         }
       ]
     }
