@@ -298,6 +298,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-h",
           "_params": {
             "labelsColor": "#232323",
@@ -343,15 +351,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -445,7 +445,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>.&nbsp;We take your privacy very seriously. Read our <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here. By entering, you agree to <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">terms and conditions</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \"></a><a href=\"http://www.realestateandtaxhelp.com/terms\"></a> found here.  By entering your email address you are also requesting and agreeing to subscribe to my free email newsletter. You must be <br>18 or older to enter. If you have any  questions or comments please <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact us</a>.   Web site design by CM Design.<br></p>"
+          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>.&nbsp;We take your privacy very seriously. Read our <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here. By entering, you agree to <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">terms and conditions</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \"></a><a href=\"http://www.realestateandtaxhelp.com/terms\"></a> found here.  By entering your email address you are also requesting and agreeing to subscribe to my free email newsletter. You must be <br>18 or older to enter. If you have any  questions or comments please <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact us</a>.   Web site design by CM Design. Carrington CalBRE#&nbsp;01854071/CalBRE#01274794.<br></p>"
         }
       ]
     }
