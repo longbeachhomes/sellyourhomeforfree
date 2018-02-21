@@ -22,17 +22,19 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
-    "noImageResize": ""
+    "favicon": "file:///C:/Users/alex/Documents/REAL",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-98252837-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Sell your home for free",
+        "meta_descr": "How to sell a house how to sell a home long beach homes for sale learn how to sell your home save money when selling your home como vender una casa como vender su propia casa casas de venta en long beach como ahorrar dinero al vender su propia casa casas de venta agentes de bienes raices ayuda para vender casa ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -47,26 +49,34 @@
           "_anchor": "header4-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/house-for-head-2000x1275.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
-            "contentAlign": "right",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">Here's How You Can Sell Your Home For The Maximum Profit, Faster, and For</span> <i>FREE!</i>&nbsp;- <i>No Commissions Paid!</i>",
-          "text": "A comprehensive guide to help you sell your home worry-free and avoiding costly mistakes while keeping all of the purchase price.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "<span style=\"font-weight: normal;\">Sell Your Home For The Maximum Profit, Faster, and For</span>&nbsp;<i>Low</i><i>&nbsp;Commission!</i>",
+          "text": "A comprehensive guide to help you sell your home worry-free and avoiding costly mistakes while keeping the maximum profit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "60px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
@@ -123,7 +133,7 @@
             }
           },
           "title": "SELL YOUR HOME AND <br>KEEP ALL THE PROFITS.",
-          "text": "The Cesar Marin Team at Carrington Real Estate has the experience you'll <br>need to succesfully sell your home or investment property <br>for FREE,  No Commissions Paid. Learn how you can:<br><br>• Sell your home no matter what the market conditions are.<br>• Use a Realtor's experience at no cost to you.<br>• Use the systems, marketing, and team needed to get your home sold and closed with the least amount of hassle and absolutely the highest profit allowed by the market.<br>•&nbsp;And most importantly, with <b><i>No Commissions</i></b>&nbsp;paid by you.",
+          "text": "The Cesar Marin Team has the experience you'll need to succesfully sell your home or investment property for a low&nbsp;commission. Learn how you can:<br><br>• Sell your home no matter what the market conditions are.<br>• Use a Realtor's experience at no cost to you.<br>• Use the systems, marketing, and team needed to get your home sold and closed with the least amount of hassle and absolutely the highest profit allowed by the market.<br>•&nbsp;And most importantly, with <i><b>Low C</b></i><b><i>ommission.</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -145,10 +155,11 @@
             "slides": [
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/business-model-woman-message-2000x1340.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.1",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "WORRIED ABOUT NOT GETTING ENOUGH BUYERS?",
@@ -159,10 +170,11 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1324.png",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.1",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "FEARFUL OF NOT KNOWING WHAT YOU ARE DOING?",
@@ -173,10 +185,11 @@
               },
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1369.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.1",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "DON'T YOU KNOW HOW TO MARKET YOUR HOME?",
@@ -289,7 +302,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/home-valuation/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW LIVE VALUE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://express.realquest.com/propertyvalue.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW LIVE VALUE</a>",
           "title": "FREE HOME VALUE REPORT",
           "text": "Find out your home current value."
         },
@@ -322,7 +335,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "SELL YOUR HOME FOR FREE eBOOK",
+          "title": "SELL YOUR HOME FREE eBOOK",
           "subtitle": "Yes! Please send me my FREE copy of 'Your Guide to Selling Your Home'",
           "form": {
             "action": "emperorcesare@hotmail.com",
@@ -351,7 +364,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_tags": [
@@ -386,17 +399,21 @@
           "_styles": {
             "P": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#475577"
             }
           },
           "_anchor": "contacts1-9",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -404,11 +421,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/facebook-logo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mgm-logo-128x41.png",
               "width": 128,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Visit my Website",
               "title": "",
               "linkInNewWindow": false
             },
@@ -418,9 +435,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n111 Pacifica Suite 160<br>\nIrvine CA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: caesarmarin@gmail.com<br>\nPhone: 714 610 6809<br>Office: 949 203 4301",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\">Homes for sale in your area</a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">How to buy or sell a home</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\">Tax Help</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text1": "<strong>Address</strong><br>\n1912 N Broadway Suite 102<br>\nSanta Ana CA 92706",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\" class=\"text-black\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"tel:+1-714-610-6809\" target=\"_blank\" class=\"text-black\">+1 (714) 610 6809</a><br>Office: <a href=\"tel:+1-714-479-3000\" target=\"_blank\" class=\"text-black\">+1 (714) 479 3000</a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://drive.google.com/file/d/0BxBvOtVOXxTyMjJCZnpzWXBFTWc/view?usp=sharing\" target=\"_blank\" class=\"text-black\">Prepare Your House To Sell</a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\" class=\"text-black\"></a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://drive.google.com/file/d/0BxBvOtVOXxTyMjJCZnpzWXBFTWc/view?usp=sharing\" target=\"_blank\" class=\"text-black\">See how much your home is worth</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/home-valuation/\" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\" class=\"text-warning\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\" class=\"text-black\">Tax Help</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_tags": [
@@ -445,7 +462,293 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>.&nbsp;We take your privacy very seriously. Read our <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here. By entering, you agree to <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">terms and conditions</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \"></a><a href=\"http://www.realestateandtaxhelp.com/terms\"></a> found here.  By entering your email address you are also requesting and agreeing to subscribe to my free email newsletter. You must be <br>18 or older to enter. If you have any  questions or comments please <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact us</a>.   Web site design by CM Design. Carrington CalBRE#&nbsp;01854071/CalBRE#01274794.<br></p>"
+          "text": "<p>Copyright © 2017 - 2020 MGM Lenders, Inc., and Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my&nbsp;<a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here.&nbsp;&nbsp;If you have any  questions or comments please <b><a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact </a>me</b>. Design by CM Design. MGM Lenders CalBRE#&nbsp;01443736/Cesar Marin CalBRE#01274794.<br></p>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Web Maker Title",
+        "meta_descr": "Web Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/picture-5-fixed-with-more-1400x1404.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "IT WAS A PLEASURE MEETING YOU!",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-q",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/homeforsalefinal-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Sell Your Home For FREE",
+          "subtitle1": "Thinking of selling but high commissions stop you from doing it?",
+          "caption1": "Not to worry. I will show you how to get the maximum profit for your home or investment property without paying any commissions whatsoever.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://longbeachhomes.github.io/sellyourhomeforfree/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/house-for-sale-ftr-final-600x374.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Looking For A Home?",
+          "subtitle2": "See what you like",
+          "caption2": "I can help you to save money while getting the most home for your needs. Find a home and call me to get it for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FIND A HOME</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/help-sign-house-mortgage-ca-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "No Down Payment?",
+          "subtitle3": "You can get help with a DP",
+          "caption3": "I can help you to buy a home with no money down and even no closing costs.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FIND A HOME</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tax-help-screen-600x274.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Paying too much Taxes?",
+          "subtitle4": "Or not getting the tax refund you deserve?",
+          "caption4": "I will find the appropiate deductions or credits to get you the highest refund or less tax allowed by law.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://realestateandtaxhelp.com/taxhelp2/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#9c7762",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#6c2b07"
+            }
+          },
+          "_anchor": "contacts1-k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/facebook-logo-128x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "http://cesarmarin.irvine.carringtonrealestate.com/",
+              "alt": "Visit my Website",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1912 N Broadway Suite 102<br>\nSanta Ana CA 92706",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\" class=\"text-black\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"tel:+1-714-610-6809\" target=\"_blank\" class=\"text-black\">+1 (714) 610 6809</a><br>Office: <a href=\"tel:+1-714-479-3000\" target=\"_blank\" class=\"text-black\">+1 (714) 479 3000</a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://drive.google.com/file/d/0BxBvOtVOXxTyMjJCZnpzWXBFTWc/view?usp=sharing\" target=\"_blank\" class=\"text-black\">Prepare Your House To Sell</a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\" class=\"text-black\"></a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a href=\"https://cesarmarin.irvine.carringtonrealestate.com\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://drive.google.com/file/d/0BxBvOtVOXxTyMjJCZnpzWXBFTWc/view?usp=sharing\" target=\"_blank\" class=\"text-black\">See how much your home is worth</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/home-valuation/\" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\" class=\"text-warning\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\" class=\"text-black\">Tax Help</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright © 2017 - 2020 Carrington Real Estate and Real Estate and Tax Help&nbsp;<a href=\"http://www.realestateandtaxhelp.com/\" target=\"_blank\">www.realestateandtaxhelp.com</a><a href=\"http://www.realestateandtaxhelp.com/\"></a>. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my&nbsp;<a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">privacy policy</a><a href=\" sellyourhomeforfree/Privacy policy-terms and conditions.txt \" target=\"_blank\"></a><a href=\"http://www.realestateandtaxhelp.com/privacy\"></a> here.&nbsp;&nbsp;If you have any  questions or comments please <a href=\"mailto:support@realestateandtaxhelp.com\" target=\"_blank\">contact </a>me. Design by CM Design. Carrington CalBRE#&nbsp;01854071/CalBRE#01274794.<br></p>"
         }
       ]
     }
