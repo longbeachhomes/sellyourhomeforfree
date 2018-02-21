@@ -51,7 +51,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/house-for-head-1-2000x1275.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/house-for-head-2-2000x1275.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
