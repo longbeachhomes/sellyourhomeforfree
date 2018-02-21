@@ -51,7 +51,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/house-for-head-2000x1275.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/house-for-head-2000x1275.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -66,15 +66,18 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">Sell Your Home For The Maximum Profit, Faster, and For</span>&nbsp;<i>Low</i><i>&nbsp;Commission!</i>",
+          "title": "<span style=\"font-weight: normal;\">Sell Your Home For The Maximum Profit, Faster, and For&nbsp;<i>Low</i><i>&nbsp;Commission!</i></span>",
           "text": "A comprehensive guide to help you sell your home worry-free and avoiding costly mistakes while keeping the maximum profit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title SPAN": {
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
             }
           }
         },
@@ -170,7 +173,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1324.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-1-2000x1324.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -185,7 +188,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1369.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
