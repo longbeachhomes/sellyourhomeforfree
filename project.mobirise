@@ -173,7 +173,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1325.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -188,7 +188,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-1-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
